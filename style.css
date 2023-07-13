@@ -145,7 +145,7 @@ header {
 
 .badge1 {
   display: inline-block;
-  background-color: rgb(41, 40, 40);
+  background-color: rgb(18, 32, 57);
   padding: 5px 10px;
   border-radius: 25px;
   font-weight: 600;
@@ -160,7 +160,7 @@ header {
   border: none;
   box-shadow: 3px 3px 0 rgb(255, 255, 255);
   transition: all 0.2s ease;
-  background-color: rgb(163, 163, 49);
+  background-color: rgb(192, 192, 67);
 }
 
 .view:hover {
@@ -223,6 +223,10 @@ footer {
   .home-content .text h1 {
     font-size: 2.5rem;
     font-weight: 1000;
+  }
+
+  .featured-description h5 {
+    font-size: 18px;
   }
 }
 
